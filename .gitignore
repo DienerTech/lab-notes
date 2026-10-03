@@ -1,0 +1,20 @@
+# Private scrub patterns for tools/scrub_check.py (never commit: they name private details)
+.scrub-patterns.local
+
+# Large or raw media stays out of git; link releases or video hosts instead
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.safetensors
+*.ckpt
+*.glb
+
+# Local tooling
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db
