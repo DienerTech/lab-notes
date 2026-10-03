@@ -14,7 +14,7 @@ This isn't a reproduction kit, a course or a finished method. It's what we learn
 
 A three-minute anime-style EVE Online music video: a Pilgrim cruiser hunts a Loki, a Myrmidon and a Raven. It went through twenty full drafts. The footage came from MiniMax H3 image-to-video, the keyframes from GPT Images, and the staging from code previs built on real ship geometry. The HUDs and cards are Remotion overlays. Claude and Codex worked as production agents, and I directed and reviewed every cut.
 
-- 🎬 **Watch:** *(YouTube link to be added at release)*
+- 🎬 **Watch:** [Can You See Me Now? on YouTube](https://youtu.be/iFqGIgsO468)
 - 📓 **How it was made:** [projects/can-you-see-me-now](projects/can-you-see-me-now/)
 
 ## What's here

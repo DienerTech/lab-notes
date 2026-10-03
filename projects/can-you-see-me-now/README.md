@@ -2,7 +2,7 @@
 
 *A 3:13 anime-style music video. A Pilgrim recon cruiser cloaks, ambushes a Loki, duels a Myrmidon and its drones, and hunts a Raven. It went through twenty full drafts over several weeks, and I approved the final cut on September 30, 2026.*
 
-🎬 **Watch:** *(YouTube link to be added at release)*
+🎬 **Watch:** [Can You See Me Now? on YouTube](https://youtu.be/iFqGIgsO468)
 
 ![Approved Ogre flank run](media/loop-ogre-flank.webp)
 
